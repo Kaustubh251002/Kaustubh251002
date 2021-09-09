@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Frontend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kaustubh251002](https://github.com/Kaustubh251002)
+- 👨‍💻 All of my projects are available [here](https://github.com/Kaustubh251002?tab=repositories)
 
 - 💬 Ask me about **DSA, blockchain or ML.**
 
