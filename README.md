@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubh251002" alt="kaustubh251002" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, ML, and also exploring different blockchain platforms on the side.**
+- 🌱 I’m currently learning **DSA, Blockchain(Web3), Java and ML.**
 
 - 👯 I’m looking to collaborate on **any projects that involve ML, blockchain, or hardware.**
 
-- 🤝 I’m looking for help with **Frontend development**
+- 🤝 I’m looking for help with **Frontend development and Advanced Java Concepts**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Kaustubh251002?tab=repositories)
 
-- 💬 Ask me about **DSA, blockchain or ML.**
+- 💬 Ask me about **DSA, blockchain or Java.**
 
 - 📫 How to reach me **kaustubh2510@gmail.com**
 
