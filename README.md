@@ -7,13 +7,12 @@
 
 - 🤝 I’m looking for help with **FrontEnd technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kaustubh251002](https://github.com/Kaustubh251002)
+- 👨‍💻 All of my projects are available [here](https://github.com/Kaustubh251002)
 
 - 💬 Ask me about **anything Blockchain related.**
 
 - 📫 How to reach me **kmishra2510@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WcvSFeCdleG0TXw4lsd7NQRFT_eRl8UU/view?usp=sharing](https://drive.google.com/file/d/1WcvSFeCdleG0TXw4lsd7NQRFT_eRl8UU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
