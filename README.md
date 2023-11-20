@@ -3,13 +3,13 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- 🔭 I’m currently **researching offbeat applications of Blockchain**
+- 🔭 I’m currently **expanding my skillset to newer tech stacks**
 
 - 👯 I’m looking to collaborate on **anything, anytime!**
 
 - 🤝 I’m looking for help with **FrontEnd technologies**
 
-- 💬 Ask me about **anything Blockchain related.**
+- 💬 Ask me about **anything.. If i don't know the answer, I'll surely look for it with you!**
 
 ---
 >Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.
