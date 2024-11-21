@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Mishra</h1>
-<h3 align="center">Developing dApps, one commit at a time.</h3>
+<h3 align="center">Developing Software, one commit at a time.</h3>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
